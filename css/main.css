@@ -1,0 +1,23 @@
+html {
+    padding: 0;
+}
+.main_body {
+    padding: 1rem;
+}
+.right {
+    margin: 0 auto;
+}
+#button_menu {
+    background: blue;
+    height: 3vw;
+}
+.split_line {
+    background-color: gray;
+    height: 100%;
+    margin: 15px 0;
+    color: white;
+    border-radius: 1ch;
+}
+.split_line p {
+    padding: 5px 20px;
+}
