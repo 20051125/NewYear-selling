@@ -2,10 +2,14 @@
 
 .user_icon {
     border-radius: 50%;
+    width: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 #line {
     position: absolute;
     height: 3px;
     width: 100vw;
-    background-color: red;
+    left: 0;
+    background-color: gainsboro;
 }
